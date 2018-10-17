@@ -2,7 +2,7 @@
 
 ## Selected Algorithms
 
-- Bubble
+- ~~Bubble~~
 - Selection
 - Insertion
 - Shell
